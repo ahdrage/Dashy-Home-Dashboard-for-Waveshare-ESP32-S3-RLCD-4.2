@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Arduino / build outputs
+**/build/
+**/.build/
+**/*.elf
+**/*.bin
+**/*.map
+**/*.hex
+**/*.partitions.bin
+
+# Local secrets
+**/secrets.h
+.env
+
+# Logs and temp
+*.log
+*.tmp
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+.playwright-mcp/
