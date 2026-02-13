@@ -18,6 +18,10 @@ Real device photo:
 - Waveshare ESP32-S3-RLCD-4.2
 - USB-C cable
 
+## Battery life (observed)
+- In current usage, this setup gets about **2 days per charge**.
+- Expect variance based on refresh frequency, Wi-Fi quality/uptime, and how often the display updates.
+
 ## Firmware source
 - Main sketch: `firmware/arduino/08_LVGL_V8_Test/08_LVGL_V8_Test.ino`
 - Driver/support files in the same folder are based on Waveshare's official example package.

@@ -69,3 +69,7 @@ If serial port disappears:
 - At boot, firmware tries to sync RTC from NTP in Oslo time.
 - It re-syncs every 6 hours when Wi-Fi is connected.
 - If your clock is behind, connect Wi-Fi and reboot once to force an initial sync.
+
+## Battery runtime note
+- Observed runtime with current configuration is about **2 days per charge**.
+- Your runtime will vary with Wi-Fi conditions, data polling cadence, and display update behavior.
