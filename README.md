@@ -16,6 +16,7 @@ Real device photo:
 
 ## Hardware
 - Waveshare ESP32-S3-RLCD-4.2
+- Product page: https://www.waveshare.com/esp32-s3-rlcd-4.2.htm
 - USB-C cable
 
 ## Battery life (observed)

@@ -1,6 +1,7 @@
 # Upstream references and attribution
 
 ## Official Waveshare resources
+- Product page: https://www.waveshare.com/esp32-s3-rlcd-4.2.htm
 - Product wiki (English): https://docs.waveshare.com/ESP32-S3-RLCD-4.2
 - Product wiki (Chinese): https://docs.waveshare.net/ESP32-S3-RLCD-4.2
 - Official code/examples repo: https://github.com/waveshareteam/ESP32-S3-RLCD-4.2
@@ -11,4 +12,3 @@ This project is based on the Waveshare `08_LVGL_V8_Test` Arduino example for ESP
 ## Licensing caveat
 At the time of writing, the upstream repo does not expose a top-level project license file.
 Before publishing or redistributing derived files, verify the upstream licensing terms and your redistribution rights.
-
